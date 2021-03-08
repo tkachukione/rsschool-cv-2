@@ -1,0 +1,122 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: whitesmoke;
+  }
+  li {
+    color: rgb(0, 0, 0);
+    font-size: 15.5px;
+    line-height: 25px;
+  }
+.main-sidebar {
+    width: 1000px;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    margin: auto;
+    box-shadow: 6px 6px 20px;
+  }
+  .main_content {
+    padding: 100px 90px 90px;
+  }
+  .about-me {
+    margin: auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .profession {
+    margin: 0px 0px 0px 0px;
+  
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 700px;
+  }
+  .name {
+    font-size: 45px;
+    font-weight: 700px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  .description {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+    margin-bottom: 25px;
+  }
+  .skills {
+    margin-bottom: 50px;
+  }
+  .main-content-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 27px;
+    color: black;
+  }
+  .skills-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 0 0 0 17px;
+  }
+  .my-skills {
+    color: rgb(0, 0, 0);
+  }
+  .my-skills-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    margin-left: 15px;
+  }
+  .vacancy {
+    color: orange;
+    margin-left: 5px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .sidebar {
+    background-color: rgb(3, 83, 83);
+    width: 300px;
+    padding-top: 40px;
+    padding-bottom: 150px;
+  }
+  .contacts, .interests {
+    margin: 50px 0 0 55px;
+  }
+  .span1 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+    color: white;
+  }
+  .span2 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+  }
+  .list-dots {
+    color: rgb(190, 71, 2);
+  }
+  .texts {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(230, 228, 228);
+    padding: 0 0 0 20px;
+  }
+  
